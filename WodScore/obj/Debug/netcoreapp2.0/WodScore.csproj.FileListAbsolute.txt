@@ -1,0 +1,12 @@
+/Users/jvelarde/Documents/JVelarde/dotNet/WodScore/WodScore/bin/Debug/netcoreapp2.0/libe_sqlite3.dylib
+/Users/jvelarde/Documents/JVelarde/dotNet/WodScore/WodScore/bin/Debug/netcoreapp2.0/WodScore.deps.json
+/Users/jvelarde/Documents/JVelarde/dotNet/WodScore/WodScore/bin/Debug/netcoreapp2.0/WodScore.runtimeconfig.json
+/Users/jvelarde/Documents/JVelarde/dotNet/WodScore/WodScore/bin/Debug/netcoreapp2.0/WodScore.runtimeconfig.dev.json
+/Users/jvelarde/Documents/JVelarde/dotNet/WodScore/WodScore/bin/Debug/netcoreapp2.0/WodScore.dll
+/Users/jvelarde/Documents/JVelarde/dotNet/WodScore/WodScore/bin/Debug/netcoreapp2.0/WodScore.pdb
+/Users/jvelarde/Documents/JVelarde/dotNet/WodScore/WodScore/obj/Debug/netcoreapp2.0/WodScore.csprojResolveAssemblyReference.cache
+/Users/jvelarde/Documents/JVelarde/dotNet/WodScore/WodScore/obj/Debug/netcoreapp2.0/WodScore.csproj.CoreCompileInputs.cache
+/Users/jvelarde/Documents/JVelarde/dotNet/WodScore/WodScore/obj/Debug/netcoreapp2.0/WodScore.AssemblyInfoInputs.cache
+/Users/jvelarde/Documents/JVelarde/dotNet/WodScore/WodScore/obj/Debug/netcoreapp2.0/WodScore.AssemblyInfo.cs
+/Users/jvelarde/Documents/JVelarde/dotNet/WodScore/WodScore/obj/Debug/netcoreapp2.0/WodScore.dll
+/Users/jvelarde/Documents/JVelarde/dotNet/WodScore/WodScore/obj/Debug/netcoreapp2.0/WodScore.pdb
