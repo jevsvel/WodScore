@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "/Users/jvelarde/.dotnet/store/|arch|/|tfm|",
-      "/Users/jvelarde/.nuget/packages"
-    ]
-  }
-}
