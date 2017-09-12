@@ -4,10 +4,10 @@ namespace WodScore.Models
 {
     public class EventAthlete
     {
-        public int Id { get; set; }
-        public int EventId { get; set; }
-        public int AthleteId { get; set; }
-        public int CategoryId { get; set; }
+        public int ID { get; set; }
+        public int EventID { get; set; }
+        public int AthleteID { get; set; }
+        public int CategoryID { get; set; }
 
         [ForeignKey("EventId")]
         public virtual Event Event { get; set; }

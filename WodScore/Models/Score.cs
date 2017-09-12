@@ -6,7 +6,8 @@ namespace WodScore.Models
     public class Score
     {
         [Key]
-        public int Id { get; set; }
-        public int ScoreS { get; set; }
+        public int ID { get; set; }
+        public int Place { get; set; }
+        public int Points { get; set; }
     }
 }

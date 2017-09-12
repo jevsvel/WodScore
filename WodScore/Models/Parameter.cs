@@ -6,9 +6,9 @@ namespace WodScore.Models
     public class Parameter
     {
         [Key]
-        public int Id { get; set; }
-        public int EventId { get; set; }
-        public int ExerciseId { get; set; }
+        public int ID { get; set; }
+        public int EventID { get; set; }
+        public int ExerciseID { get; set; }
         public int IsRequired { get; set; }
     }
 }
